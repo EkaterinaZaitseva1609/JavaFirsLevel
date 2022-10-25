@@ -2,7 +2,7 @@ package ru.gb.java_Sergey.lection1GB;
 
 import java.util.Scanner;
 
-public class Seminar_1 {
+public class Seminar_1task1 {
     public static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
